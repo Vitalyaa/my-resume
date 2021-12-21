@@ -23,9 +23,24 @@ body {
     font-weight: bold;
     font-size: 22px;
     line-height: 27px;
-    color: #000;
+    color: rgb(251, 109, 58);
     margin-bottom: 10px;
     
+}
+.main-content-title-1 {
+    color: #000;
+    font-weight: normal;
+}
+
+.my-work-experience-company-1 {
+        color: #000;
+        font-weight: normal;
+
+}
+
+.normal {
+    font-weight: normal;
+
 }
 
 .main-content-title-n {
@@ -35,7 +50,7 @@ body {
     line-height: 22px;
     color: #000;
     margin-bottom: 10px;
-    margin-top: 167px;
+    margin-top: 40px;
 
 }
 
@@ -43,7 +58,10 @@ body {
 
 .about-me-section {
     margin: 0 0 40px 0;
-
+}
+.border {
+border-top: 0.1rem solid #000000;
+margin-top: 50px;
 }
 
 
@@ -100,6 +118,12 @@ body {
     font-size: 14px;
     line-height: 24px;
     color: #595959; 
+}
+
+.my-projects-link-1 {
+        font-size: 16px;
+        color: #000;
+
 }
 
 .my-projects-text {
