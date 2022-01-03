@@ -25,7 +25,7 @@ body {
 .main-content-title {
     font-style: normal;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 27px;
     line-height: 27px;
     color: rgb(251, 109, 58);
     margin-bottom: 16px;
@@ -40,6 +40,7 @@ body {
 .my-work-experience-company-1 {
         color: #000;
         font-weight: normal;
+        font-size: 16px;
 
 }
 
@@ -51,7 +52,7 @@ body {
 .main-content-title-n {
     font-style: normal;
     font-weight: normal;
-    font-size: 22px;
+    font-size: 16px;
     line-height: 22px;
     color: #000;
     margin-bottom: 10px;
