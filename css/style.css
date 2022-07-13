@@ -29,8 +29,9 @@ body {
     line-height: 27px;
     color: rgb(251, 109, 58);
     margin-bottom: 16px;
-    
+
 }
+
 .main-content-title-1 {
     color: #000;
     font-weight: normal;
@@ -38,9 +39,9 @@ body {
 }
 
 .my-work-experience-company-1 {
-        color: #000;
-        font-weight: normal;
-        font-size: 16px;
+    color: #000;
+    font-weight: normal;
+    font-size: 16px;
 
 }
 
@@ -65,16 +66,17 @@ body {
 .about-me-section {
     margin: 0 0 40px 0;
 }
+
 .border {
-border-top: 0.1rem solid #000000;
-margin-top: 50px;
+    border-top: 0.1rem solid #000000;
+    margin-top: 50px;
 }
 
 
-.about-me-profession {  
+.about-me-profession {
     font-style: normal;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 17px;
     color: #000;
     margin: 0 0 20px 0;
@@ -92,12 +94,12 @@ margin-top: 50px;
 .about-me-description {
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 18px;
     line-height: 24px;
-    color: #595959;
+    color: #000000;
 }
 
-.about-me-description{
+.about-me-description {
     background: #fff;
     display: flex;
     flex-direction: column;
@@ -123,12 +125,12 @@ margin-top: 50px;
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    color: #595959; 
+    color: #595959;
 }
 
 .my-projects-link-1 {
-        font-size: 16px;
-        color: #000;
+    font-size: 16px;
+    color: #000;
 
 }
 
@@ -162,6 +164,7 @@ margin-top: 50px;
     line-height: 20px;
     margin: 0 0 10px 0;
 }
+
 .my-work-experience-time {
     font-style: normal;
     font-weight: normal;
@@ -188,7 +191,7 @@ margin-top: 50px;
 /* Sidebar section */
 
 .sidebar-section {
-    background: #1f1e20;
+    background: #080f19;
     width: 370px;
     padding: 40px 0;
 }
@@ -196,6 +199,7 @@ margin-top: 50px;
 .contacts-section {
     margin: 50px 0 0 40px;
 }
+
 .tech-skills-section {
     margin: 50px 0 0 40px;
 }
@@ -269,4 +273,3 @@ margin-top: 50px;
     line-height: 24px;
     color: #fff;
 }
-
